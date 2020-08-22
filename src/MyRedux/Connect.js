@@ -1,5 +1,5 @@
 import React from 'react';
-import { MyContext } from './MyRedux/Provider';
+import { MyContext } from './Provider';
 
 export default function connect(stateFun, dispatchFun) {
 
